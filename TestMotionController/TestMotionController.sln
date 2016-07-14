@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMotionController.CSharp.Plugins", "TestMotionController.CSharp.Plugins.csproj", "{11566758-9978-1C7B-C0D4-77391336F5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMotionController.CSharp", "TestMotionController.CSharp.csproj", "{22555172-C9F3-460D-DFA5-32A653793D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMotionController.CSharp.Editor", "TestMotionController.CSharp.Editor.csproj", "{5D1333D9-EEAE-6E1A-976B-0CC957BC39EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11566758-9978-1C7B-C0D4-77391336F5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11566758-9978-1C7B-C0D4-77391336F5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11566758-9978-1C7B-C0D4-77391336F5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11566758-9978-1C7B-C0D4-77391336F5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22555172-C9F3-460D-DFA5-32A653793D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22555172-C9F3-460D-DFA5-32A653793D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22555172-C9F3-460D-DFA5-32A653793D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22555172-C9F3-460D-DFA5-32A653793D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1333D9-EEAE-6E1A-976B-0CC957BC39EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1333D9-EEAE-6E1A-976B-0CC957BC39EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1333D9-EEAE-6E1A-976B-0CC957BC39EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1333D9-EEAE-6E1A-976B-0CC957BC39EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
